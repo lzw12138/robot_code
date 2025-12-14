@@ -1,0 +1,16 @@
+[submodule "model/unitree_ros"]
+	path = model/unitree_ros
+	url = https://github.com/unitreerobotics/unitree_ros.git
+[submodule "rl/rl_sar"]
+	path = rl/rl_sar
+	url = https://github.com/lzw12138/rl_sar.git
+[submodule "rl/robot_lab"]
+	path = rl/robot_lab
+	url = https://github.com/lzw12138/robot_lab.git
+[submodule "rl/unitree_rl_lab"]
+	path = rl/unitree_rl_lab
+	url = git@github.com:lzw12138/unitree_rl_lab.git
+[submodule "rl/whole_body_tracking"]
+	path = rl/whole_body_tracking
+	url = https://github.com/lzw12138/whole_body_tracking.git
+
