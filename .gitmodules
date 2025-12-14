@@ -9,7 +9,7 @@
 	url = https://github.com/lzw12138/robot_lab.git
 [submodule "rl/unitree_rl_lab"]
 	path = rl/unitree_rl_lab
-	url = git@github.com:lzw12138/unitree_rl_lab.git
+	url = https://github.com/lzw12138/unitree_rl_lab.git
 [submodule "rl/whole_body_tracking"]
 	path = rl/whole_body_tracking
 	url = https://github.com/lzw12138/whole_body_tracking.git
