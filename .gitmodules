@@ -13,4 +13,10 @@
 [submodule "rl/whole_body_tracking"]
 	path = rl/whole_body_tracking
 	url = https://github.com/lzw12138/whole_body_tracking.git
+[submodule "3rdpart/unitree_sdk2"]
+	path = 3rdpart/unitree_sdk2
+	url = https://github.com/unitreerobotics/unitree_sdk2.git
+[submodule "rl/LeggedLab"]
+	path = rl/LeggedLab
+	url = https://github.com/lzw12138/LeggedLab.git
 
